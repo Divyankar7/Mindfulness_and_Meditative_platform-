@@ -1,6 +1,6 @@
 # Mindfulness_and_Meditative_platform-
 This platform helps user maintain their mental health 
-# Mindfulness & Meditation Platform (GUVI Review-1)
+# Mindfulness & Meditation Platform 
 
 Backend mini-project that demonstrates Core Java, JDBC, Servlets, and database design for a mindfulness learning platform. The submission matches the Review-1 rubric (problem understanding, OOP usage, JDBC CRUD, and servlet integration).
 
